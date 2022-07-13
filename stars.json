@@ -1,15 +1,15 @@
 [
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 3522,
-    "open_issues_count": 42,
+    "stargazers_count": 3525,
+    "open_issues_count": 43,
     "forks_count": 290
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 224446,
+    "stargazers_count": 224567,
     "open_issues_count": 52,
-    "forks_count": 60633
+    "forks_count": 60662
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "stefmolin/python-data-viz-workshop",
-    "stargazers_count": 131,
+    "stargazers_count": 135,
     "open_issues_count": 0,
-    "forks_count": 134
+    "forks_count": 157
   },
   {
     "full_name": "itaiy/Pandas-and-Spark",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "outerbounds/full-stack-ML-metaflow-tutorial",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 4,
-    "forks_count": 10
+    "forks_count": 18
   },
   {
     "full_name": "thomasjpfan/ml-workshop-intro",
@@ -61,25 +61,25 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4061,
+    "stargazers_count": 4062,
     "open_issues_count": 67,
-    "forks_count": 317
+    "forks_count": 318
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 140121,
-    "open_issues_count": 242,
-    "forks_count": 36190
+    "stargazers_count": 140177,
+    "open_issues_count": 243,
+    "forks_count": 36196
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 94493,
-    "open_issues_count": 145,
-    "forks_count": 6026
+    "stargazers_count": 94728,
+    "open_issues_count": 146,
+    "forks_count": 6039
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1088,
+    "stargazers_count": 1091,
     "open_issues_count": 1,
     "forks_count": 250
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 348921,
-    "open_issues_count": 204,
-    "forks_count": 28949
+    "stargazers_count": 348976,
+    "open_issues_count": 193,
+    "forks_count": 28956
   }
 ]
