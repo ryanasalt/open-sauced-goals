@@ -1,19 +1,19 @@
 [
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 3530,
+    "stargazers_count": 3533,
     "open_issues_count": 43,
     "forks_count": 290
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 225001,
+    "stargazers_count": 225188,
     "open_issues_count": 52,
-    "forks_count": 60723
+    "forks_count": 60741
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2395,
+    "stargazers_count": 2398,
     "open_issues_count": 0,
     "forks_count": 972
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "outerbounds/full-stack-ML-metaflow-tutorial",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 4,
     "forks_count": 18
   },
@@ -57,25 +57,25 @@
     "full_name": "dgerlanc/programming-with-data",
     "stargazers_count": 208,
     "open_issues_count": 2,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4065,
-    "open_issues_count": 67,
-    "forks_count": 318
+    "stargazers_count": 4067,
+    "open_issues_count": 68,
+    "forks_count": 319
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 140255,
+    "stargazers_count": 140283,
     "open_issues_count": 242,
-    "forks_count": 36214
+    "forks_count": 36221
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 95204,
-    "open_issues_count": 148,
-    "forks_count": 6068
+    "stargazers_count": 95332,
+    "open_issues_count": 147,
+    "forks_count": 6076
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12724,
+    "stargazers_count": 12725,
     "open_issues_count": 9,
     "forks_count": 2224
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 349300,
-    "open_issues_count": 192,
-    "forks_count": 28982
+    "stargazers_count": 349382,
+    "open_issues_count": 195,
+    "forks_count": 28987
   }
 ]
