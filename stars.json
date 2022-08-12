@@ -1,19 +1,19 @@
 [
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 3574,
+    "stargazers_count": 3581,
     "open_issues_count": 43,
-    "forks_count": 297
+    "forks_count": 298
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 228423,
-    "open_issues_count": 53,
-    "forks_count": 61446
+    "stargazers_count": 229224,
+    "open_issues_count": 51,
+    "forks_count": 61579
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2411,
+    "stargazers_count": 2412,
     "open_issues_count": 0,
     "forks_count": 972
   },
@@ -33,7 +33,7 @@
     "full_name": "stefmolin/python-data-viz-workshop",
     "stargazers_count": 140,
     "open_issues_count": 0,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "itaiy/Pandas-and-Spark",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4126,
+    "stargazers_count": 4133,
     "open_issues_count": 68,
-    "forks_count": 324
+    "forks_count": 326
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 141149,
-    "open_issues_count": 256,
-    "forks_count": 36345
+    "stargazers_count": 141636,
+    "open_issues_count": 261,
+    "forks_count": 36390
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 97925,
-    "open_issues_count": 123,
-    "forks_count": 6163
+    "stargazers_count": 98274,
+    "open_issues_count": 112,
+    "forks_count": 6170
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12750,
-    "open_issues_count": 9,
-    "forks_count": 2219
+    "stargazers_count": 12753,
+    "open_issues_count": 8,
+    "forks_count": 2220
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 351134,
-    "open_issues_count": 185,
-    "forks_count": 29188
+    "stargazers_count": 351259,
+    "open_issues_count": 183,
+    "forks_count": 29205
   }
 ]
