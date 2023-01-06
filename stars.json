@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "redislabs-training/redisfi",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ActivitySchema/ActivitySchema",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 5,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "FourthBrain/software-dev-for-mlops-101",
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 3784,
+    "stargazers_count": 3793,
     "open_issues_count": 47,
     "forks_count": 320
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 242273,
-    "open_issues_count": 49,
-    "forks_count": 64610
+    "stargazers_count": 242456,
+    "open_issues_count": 50,
+    "forks_count": 64638
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2492,
+    "stargazers_count": 2495,
     "open_issues_count": 1,
     "forks_count": 977
   },
@@ -55,9 +61,9 @@
   },
   {
     "full_name": "outerbounds/full-stack-ML-metaflow-tutorial",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 5,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "thomasjpfan/ml-workshop-intro",
@@ -73,25 +79,25 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4348,
+    "stargazers_count": 4350,
     "open_issues_count": 74,
-    "forks_count": 338
+    "forks_count": 339
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 150588,
-    "open_issues_count": 127,
-    "forks_count": 38633
+    "stargazers_count": 150698,
+    "open_issues_count": 129,
+    "forks_count": 38654
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 113846,
-    "open_issues_count": 86,
-    "forks_count": 6797
+    "stargazers_count": 114195,
+    "open_issues_count": 87,
+    "forks_count": 6809
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1172,
+    "stargazers_count": 1173,
     "open_issues_count": 0,
     "forks_count": 270
   },
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 358941,
-    "open_issues_count": 179,
-    "forks_count": 30662
+    "stargazers_count": 359072,
+    "open_issues_count": 180,
+    "forks_count": 30677
   }
 ]
