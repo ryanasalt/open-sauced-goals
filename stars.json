@@ -7,27 +7,27 @@
   },
   {
     "full_name": "ActivitySchema/ActivitySchema",
-    "stargazers_count": 217,
+    "stargazers_count": 219,
     "open_issues_count": 5,
     "forks_count": 18
   },
   {
     "full_name": "FourthBrain/software-dev-for-mlops-101",
-    "stargazers_count": 195,
+    "stargazers_count": 194,
     "open_issues_count": 2,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 3807,
-    "open_issues_count": 46,
+    "stargazers_count": 3809,
+    "open_issues_count": 47,
     "forks_count": 323
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 244577,
+    "stargazers_count": 244835,
     "open_issues_count": 52,
-    "forks_count": 64963
+    "forks_count": 65016
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "AmirMK/BYOM_Tableau",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -51,7 +51,7 @@
     "full_name": "stefmolin/python-data-viz-workshop",
     "stargazers_count": 163,
     "open_issues_count": 0,
-    "forks_count": 217
+    "forks_count": 218
   },
   {
     "full_name": "itaiy/Pandas-and-Spark",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "outerbounds/full-stack-ML-metaflow-tutorial",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 5,
     "forks_count": 32
   },
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4358,
+    "stargazers_count": 4363,
     "open_issues_count": 74,
     "forks_count": 340
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 151064,
+    "stargazers_count": 151177,
     "open_issues_count": 131,
-    "forks_count": 38715
+    "forks_count": 38738
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 115412,
-    "open_issues_count": 88,
-    "forks_count": 6843
+    "stargazers_count": 115763,
+    "open_issues_count": 90,
+    "forks_count": 6852
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1174,
+    "stargazers_count": 1176,
     "open_issues_count": 0,
     "forks_count": 272
   },
@@ -111,18 +111,18 @@
     "full_name": "danielstern/vue-todomvc",
     "stargazers_count": 107,
     "open_issues_count": 0,
-    "forks_count": 88
+    "forks_count": 87
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12872,
-    "open_issues_count": 10,
-    "forks_count": 2244
+    "stargazers_count": 12874,
+    "open_issues_count": 9,
+    "forks_count": 2245
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 359638,
-    "open_issues_count": 181,
-    "forks_count": 30756
+    "stargazers_count": 359762,
+    "open_issues_count": 171,
+    "forks_count": 30809
   }
 ]
