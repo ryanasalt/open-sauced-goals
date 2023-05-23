@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "simonw/datasette",
+    "stargazers_count": 7782,
+    "open_issues_count": 510,
+    "forks_count": 542
+  },
+  {
     "full_name": "allie-rae/braggart",
     "stargazers_count": 6,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "garimasingh128/awesome-python-projects",
-    "stargazers_count": 644,
+    "stargazers_count": 645,
     "open_issues_count": 55,
     "forks_count": 194
   },
@@ -31,19 +37,19 @@
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 4025,
+    "stargazers_count": 4034,
     "open_issues_count": 43,
-    "forks_count": 339
+    "forks_count": 341
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 257722,
+    "stargazers_count": 257949,
     "open_issues_count": 56,
-    "forks_count": 67690
+    "forks_count": 67753
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2557,
+    "stargazers_count": 2560,
     "open_issues_count": 2,
     "forks_count": 974
   },
@@ -91,27 +97,27 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4565,
+    "stargazers_count": 4569,
     "open_issues_count": 77,
     "forks_count": 349
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 158738,
-    "open_issues_count": 158,
-    "forks_count": 40116
+    "stargazers_count": 158898,
+    "open_issues_count": 165,
+    "forks_count": 40136
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 131930,
-    "open_issues_count": 95,
-    "forks_count": 7585
+    "stargazers_count": 132649,
+    "open_issues_count": 98,
+    "forks_count": 7623
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1225,
+    "stargazers_count": 1229,
     "open_issues_count": 0,
-    "forks_count": 284
+    "forks_count": 285
   },
   {
     "full_name": "tthn0/Vocab",
@@ -127,14 +133,14 @@
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12952,
+    "stargazers_count": 12955,
     "open_issues_count": 12,
-    "forks_count": 2257
+    "forks_count": 2258
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 366980,
-    "open_issues_count": 205,
-    "forks_count": 32166
+    "stargazers_count": 367216,
+    "open_issues_count": 219,
+    "forks_count": 32192
   }
 ]
