@@ -1,9 +1,9 @@
 [
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 8000,
-    "open_issues_count": 529,
-    "forks_count": 555
+    "stargazers_count": 8009,
+    "open_issues_count": 528,
+    "forks_count": 556
   },
   {
     "full_name": "allie-rae/braggart",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 4155,
+    "stargazers_count": 4158,
     "open_issues_count": 47,
-    "forks_count": 348
+    "forks_count": 349
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 261573,
+    "stargazers_count": 261743,
     "open_issues_count": 57,
-    "forks_count": 68586
+    "forks_count": 68644
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2576,
+    "stargazers_count": 2578,
     "open_issues_count": 1,
-    "forks_count": 977
+    "forks_count": 978
   },
   {
     "full_name": "jpmorganchase/SFinX",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "stefmolin/python-data-viz-workshop",
-    "stargazers_count": 197,
+    "stargazers_count": 198,
     "open_issues_count": 0,
     "forks_count": 295
   },
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4650,
+    "stargazers_count": 4654,
     "open_issues_count": 81,
     "forks_count": 355
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 161060,
-    "open_issues_count": 163,
-    "forks_count": 40786
+    "stargazers_count": 161233,
+    "open_issues_count": 166,
+    "forks_count": 40821
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 139982,
-    "open_issues_count": 53,
-    "forks_count": 7930
+    "stargazers_count": 140427,
+    "open_issues_count": 48,
+    "forks_count": 7943
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1241,
+    "stargazers_count": 1242,
     "open_issues_count": 0,
-    "forks_count": 287
+    "forks_count": 288
   },
   {
     "full_name": "tthn0/Vocab",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12990,
-    "open_issues_count": 10,
+    "stargazers_count": 12991,
+    "open_issues_count": 11,
     "forks_count": 2259
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 370094,
+    "stargazers_count": 370233,
     "open_issues_count": 225,
-    "forks_count": 32914
+    "forks_count": 32952
   }
 ]
