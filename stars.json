@@ -1,9 +1,9 @@
 [
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 8028,
+    "stargazers_count": 8051,
     "open_issues_count": 539,
-    "forks_count": 557
+    "forks_count": 559
   },
   {
     "full_name": "allie-rae/braggart",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "garimasingh128/awesome-python-projects",
-    "stargazers_count": 678,
+    "stargazers_count": 680,
     "open_issues_count": 56,
-    "forks_count": 215
+    "forks_count": 214
   },
   {
     "full_name": "redislabs-training/redisfi",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "ActivitySchema/ActivitySchema",
-    "stargazers_count": 306,
+    "stargazers_count": 307,
     "open_issues_count": 8,
     "forks_count": 26
   },
   {
     "full_name": "FourthBrain/software-dev-for-mlops-101",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 3,
     "forks_count": 71
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 4160,
+    "stargazers_count": 4167,
     "open_issues_count": 47,
-    "forks_count": 349
+    "forks_count": 350
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 261878,
+    "stargazers_count": 262038,
     "open_issues_count": 57,
-    "forks_count": 68676
+    "forks_count": 68704
   },
   {
     "full_name": "microsoft/AcademicContent",
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "lux-org/lux",
-    "stargazers_count": 4661,
+    "stargazers_count": 4665,
     "open_issues_count": 81,
     "forks_count": 355
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 161376,
-    "open_issues_count": 169,
-    "forks_count": 40843
+    "stargazers_count": 161644,
+    "open_issues_count": 135,
+    "forks_count": 40870
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 140746,
-    "open_issues_count": 47,
-    "forks_count": 7951
+    "stargazers_count": 141159,
+    "open_issues_count": 52,
+    "forks_count": 7960
   },
   {
     "full_name": "fhsinchy/docker-handbook-projects",
-    "stargazers_count": 1243,
+    "stargazers_count": 1245,
     "open_issues_count": 0,
     "forks_count": 289
   },
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "CocoaLumberjack/CocoaLumberjack",
-    "stargazers_count": 12991,
+    "stargazers_count": 12997,
     "open_issues_count": 12,
-    "forks_count": 2258
+    "forks_count": 2259
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 370381,
-    "open_issues_count": 215,
-    "forks_count": 32986
+    "stargazers_count": 370529,
+    "open_issues_count": 219,
+    "forks_count": 33016
   }
 ]
