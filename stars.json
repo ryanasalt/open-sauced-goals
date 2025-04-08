@@ -1,7 +1,7 @@
 [
   {
     "full_name": "lyz-code/blue-book",
-    "stargazers_count": 871,
+    "stargazers_count": 872,
     "open_issues_count": 1,
     "forks_count": 94
   },
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "redcanaryco/mac-monitor",
-    "stargazers_count": 1029,
+    "stargazers_count": 1030,
     "open_issues_count": 9,
     "forks_count": 49
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 10385,
-    "open_issues_count": 10,
-    "forks_count": 2890
+    "stargazers_count": 10398,
+    "open_issues_count": 8,
+    "forks_count": 2892
   },
   {
     "full_name": "stocknear/backend",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 1,
     "forks_count": 74
   },
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 4091,
-    "open_issues_count": 136,
-    "forks_count": 290
+    "stargazers_count": 4101,
+    "open_issues_count": 138,
+    "forks_count": 293
   },
   {
-    "full_name": "SimpleHomelab/docker-traefik",
-    "stargazers_count": 3093,
+    "full_name": "SimpleHomelab/Docker-Traefik",
+    "stargazers_count": 3102,
     "open_issues_count": 58,
-    "forks_count": 653
+    "forks_count": 654
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 40011,
-    "open_issues_count": 55,
-    "forks_count": 3573
+    "stargazers_count": 40139,
+    "open_issues_count": 54,
+    "forks_count": 3584
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 29486,
+    "stargazers_count": 29545,
     "open_issues_count": 9,
-    "forks_count": 849
+    "forks_count": 851
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 17942,
+    "stargazers_count": 17949,
     "open_issues_count": 145,
-    "forks_count": 1878
+    "forks_count": 1877
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 2,
     "forks_count": 45
   },
@@ -98,26 +98,26 @@
   {
     "full_name": "finos/common-domain-model",
     "stargazers_count": 162,
-    "open_issues_count": 107,
+    "open_issues_count": 108,
     "forks_count": 77
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 84679,
-    "open_issues_count": 1796,
-    "forks_count": 5686
+    "stargazers_count": 84907,
+    "open_issues_count": 1704,
+    "forks_count": 5705
   },
   {
     "full_name": "intro-stat-learning/ISLP_labs",
-    "stargazers_count": 924,
-    "open_issues_count": 12,
-    "forks_count": 520
+    "stargazers_count": 930,
+    "open_issues_count": 15,
+    "forks_count": 521
   },
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 9923,
+    "stargazers_count": 9933,
     "open_issues_count": 621,
-    "forks_count": 721
+    "forks_count": 722
   },
   {
     "full_name": "allie-rae/braggart",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "garimasingh128/awesome-python-projects",
-    "stargazers_count": 1106,
+    "stargazers_count": 1108,
     "open_issues_count": 60,
-    "forks_count": 321
+    "forks_count": 322
   },
   {
     "full_name": "redislabs-training/redisfi",
@@ -145,25 +145,25 @@
   },
   {
     "full_name": "FourthBrain/software-dev-for-mlops-101",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 3,
     "forks_count": 77
   },
   {
     "full_name": "man-group/dtale",
-    "stargazers_count": 4882,
-    "open_issues_count": 66,
+    "stargazers_count": 4886,
+    "open_issues_count": 67,
     "forks_count": 419
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 313948,
-    "open_issues_count": 66,
-    "forks_count": 78299
+    "stargazers_count": 314062,
+    "open_issues_count": 67,
+    "forks_count": 78325
   },
   {
     "full_name": "microsoft/AcademicContent",
-    "stargazers_count": 2733,
+    "stargazers_count": 2735,
     "open_issues_count": 2,
     "forks_count": 959
   },
