@@ -13,37 +13,37 @@
   },
   {
     "full_name": "jpmorganchase/python-training",
-    "stargazers_count": 12262,
+    "stargazers_count": 12415,
     "open_issues_count": 0,
-    "forks_count": 1979
+    "forks_count": 2011
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 53908,
+    "stargazers_count": 53914,
     "open_issues_count": 0,
-    "forks_count": 4889
+    "forks_count": 4914
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 39833,
+    "stargazers_count": 39844,
     "open_issues_count": 36,
-    "forks_count": 3919
+    "forks_count": 3921
   },
   {
     "full_name": "danbuchal/portfolio-tracker",
-    "stargazers_count": 91,
+    "stargazers_count": 94,
     "open_issues_count": 8,
     "forks_count": 4
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 451980,
-    "open_issues_count": 457,
-    "forks_count": 42403
+    "stargazers_count": 452910,
+    "open_issues_count": 461,
+    "forks_count": 42481
   },
   {
     "full_name": "lyz-code/blue-book",
-    "stargazers_count": 931,
+    "stargazers_count": 932,
     "open_issues_count": 0,
     "forks_count": 102
   },
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "Brandon7CC/mac-monitor",
-    "stargazers_count": 1231,
+    "stargazers_count": 1232,
     "open_issues_count": 6,
     "forks_count": 62
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 11406,
+    "stargazers_count": 11414,
     "open_issues_count": 21,
-    "forks_count": 3035
+    "forks_count": 3039
   },
   {
     "full_name": "GrayHatHacking/GHHv6",
@@ -73,21 +73,21 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 4925,
-    "open_issues_count": 174,
-    "forks_count": 410
+    "stargazers_count": 4934,
+    "open_issues_count": 175,
+    "forks_count": 415
   },
   {
     "full_name": "SimpleHomelab/Docker-Traefik",
-    "stargazers_count": 3389,
+    "stargazers_count": 3388,
     "open_issues_count": 0,
     "forks_count": 661
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 55811,
-    "open_issues_count": 55,
-    "forks_count": 5420
+    "stargazers_count": 55912,
+    "open_issues_count": 57,
+    "forks_count": 5429
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 31955,
-    "open_issues_count": 14,
-    "forks_count": 912
+    "stargazers_count": 31978,
+    "open_issues_count": 15,
+    "forks_count": 913
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 18972,
-    "open_issues_count": 194,
-    "forks_count": 1962
+    "stargazers_count": 18982,
+    "open_issues_count": 195,
+    "forks_count": 1961
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 103519,
-    "open_issues_count": 1803,
-    "forks_count": 7544
+    "stargazers_count": 103718,
+    "open_issues_count": 1814,
+    "forks_count": 7559
   },
   {
     "full_name": "intro-stat-learning/ISLP_labs",
-    "stargazers_count": 1194,
+    "stargazers_count": 1195,
     "open_issues_count": 14,
-    "forks_count": 674
+    "forks_count": 675
   },
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 10609,
-    "open_issues_count": 649,
-    "forks_count": 799
+    "stargazers_count": 10620,
+    "open_issues_count": 650,
+    "forks_count": 800
   },
   {
     "full_name": "allie-rae/braggart",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "garimasingh128/awesome-python-projects",
-    "stargazers_count": 1380,
+    "stargazers_count": 1383,
     "open_issues_count": 62,
-    "forks_count": 360
+    "forks_count": 362
   },
   {
     "full_name": "redislabs-training/redisfi",
@@ -177,6 +177,6 @@
     "full_name": "FourthBrain/software-dev-for-mlops-101",
     "stargazers_count": 241,
     "open_issues_count": 3,
-    "forks_count": 77
+    "forks_count": 78
   }
 ]
