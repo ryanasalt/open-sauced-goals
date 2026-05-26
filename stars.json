@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Lum1104/Understand-Anything",
+    "stargazers_count": 32226,
+    "open_issues_count": 49,
+    "forks_count": 2636
+  },
+  {
     "full_name": "kcwoodfield/LifeOS-OSS",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -19,13 +25,13 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 28793,
-    "open_issues_count": 124,
-    "forks_count": 2070
+    "stargazers_count": 28877,
+    "open_issues_count": 126,
+    "forks_count": 2077
   },
   {
     "full_name": "OpenBB-finance/awesome-openbb",
-    "stargazers_count": 95,
+    "stargazers_count": 98,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "jpmorganchase/python-training",
-    "stargazers_count": 13303,
+    "stargazers_count": 13342,
     "open_issues_count": 0,
-    "forks_count": 2155
+    "forks_count": 2162
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 54134,
+    "stargazers_count": 54131,
     "open_issues_count": 0,
-    "forks_count": 5606
+    "forks_count": 5603
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40400,
-    "open_issues_count": 6,
-    "forks_count": 3940
+    "stargazers_count": 40411,
+    "open_issues_count": 10,
+    "forks_count": 3939
   },
   {
     "full_name": "danbuchal/portfolio-tracker",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 503071,
-    "open_issues_count": 483,
-    "forks_count": 47690
+    "stargazers_count": 504730,
+    "open_issues_count": 484,
+    "forks_count": 47872
   },
   {
     "full_name": "lyz-code/blue-book",
     "stargazers_count": 958,
-    "open_issues_count": 0,
-    "forks_count": 107
+    "open_issues_count": 1,
+    "forks_count": 108
   },
   {
     "full_name": "codytheroux96/mlb-scores",
@@ -79,15 +85,15 @@
   },
   {
     "full_name": "Brandon7CC/mac-monitor",
-    "stargazers_count": 1323,
+    "stargazers_count": 1337,
     "open_issues_count": 7,
     "forks_count": 67
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 11987,
-    "open_issues_count": 11,
-    "forks_count": 3123
+    "stargazers_count": 11997,
+    "open_issues_count": 9,
+    "forks_count": 3122
   },
   {
     "full_name": "GrayHatHacking/GHHv6",
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 5449,
+    "stargazers_count": 5456,
     "open_issues_count": 161,
-    "forks_count": 463
+    "forks_count": 465
   },
   {
     "full_name": "SimpleHomelab/Docker-Traefik",
-    "stargazers_count": 3441,
+    "stargazers_count": 3440,
     "open_issues_count": 0,
     "forks_count": 646
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 67915,
-    "open_issues_count": 84,
-    "forks_count": 6834
+    "stargazers_count": 68093,
+    "open_issues_count": 83,
+    "forks_count": 6857
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 33242,
+    "stargazers_count": 33273,
     "open_issues_count": 24,
-    "forks_count": 969
+    "forks_count": 968
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 19222,
-    "open_issues_count": 200,
-    "forks_count": 1980
+    "stargazers_count": 19224,
+    "open_issues_count": 201,
+    "forks_count": 1977
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
@@ -152,31 +158,25 @@
   {
     "full_name": "finos/common-domain-model",
     "stargazers_count": 248,
-    "open_issues_count": 105,
+    "open_issues_count": 107,
     "forks_count": 117
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 114830,
-    "open_issues_count": 1940,
-    "forks_count": 8872
+    "stargazers_count": 115050,
+    "open_issues_count": 1977,
+    "forks_count": 8909
   },
   {
     "full_name": "intro-stat-learning/ISLP_labs",
-    "stargazers_count": 1310,
+    "stargazers_count": 1315,
     "open_issues_count": 12,
-    "forks_count": 781
+    "forks_count": 782
   },
   {
     "full_name": "simonw/datasette",
-    "stargazers_count": 11079,
+    "stargazers_count": 11100,
     "open_issues_count": 687,
-    "forks_count": 841
-  },
-  {
-    "full_name": "allie-rae/braggart",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 842
   }
 ]
