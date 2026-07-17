@@ -1,9 +1,9 @@
 [
   {
     "full_name": "standardnotes/app",
-    "stargazers_count": 6540,
-    "open_issues_count": 97,
-    "forks_count": 535
+    "stargazers_count": 6545,
+    "open_issues_count": 101,
+    "forks_count": 537
   },
   {
     "full_name": "sjgant80-hub/exitengine",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 73852,
-    "open_issues_count": 256,
-    "forks_count": 6151
+    "stargazers_count": 74713,
+    "open_issues_count": 258,
+    "forks_count": 6216
   },
   {
     "full_name": "kcwoodfield/LifeOS-OSS",
@@ -27,7 +27,7 @@
     "full_name": "microsoft/aitour26-WRK542-prototype-agents-with-Foundry-toolkit-and-model-context-protocol",
     "stargazers_count": 61,
     "open_issues_count": 8,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "dandenney/webinars-build-your-own-executive-assistant-with-openclaw",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 30009,
-    "open_issues_count": 138,
-    "forks_count": 2147
+    "stargazers_count": 30141,
+    "open_issues_count": 142,
+    "forks_count": 2159
   },
   {
     "full_name": "OpenBB-finance/awesome-openbb",
     "stargazers_count": 112,
-    "open_issues_count": 2,
-    "forks_count": 17
+    "open_issues_count": 3,
+    "forks_count": 18
   },
   {
     "full_name": "tailscale-dev/laundromates",
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "jpmorganchase/python-training",
-    "stargazers_count": 13680,
+    "stargazers_count": 13690,
     "open_issues_count": 0,
-    "forks_count": 2216
+    "forks_count": 2215
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 54341,
+    "stargazers_count": 54339,
     "open_issues_count": 0,
-    "forks_count": 5648
+    "forks_count": 5645
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40540,
-    "open_issues_count": 10,
-    "forks_count": 3942
+    "stargazers_count": 40544,
+    "open_issues_count": 8,
+    "forks_count": 3943
   },
   {
     "full_name": "danbuchal/portfolio-tracker",
-    "stargazers_count": 137,
+    "stargazers_count": 139,
     "open_issues_count": 14,
     "forks_count": 6
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 524914,
-    "open_issues_count": 521,
-    "forks_count": 49644
+    "stargazers_count": 526474,
+    "open_issues_count": 522,
+    "forks_count": 49806
   },
   {
     "full_name": "lyz-code/blue-book",
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "Brandon7CC/mac-monitor",
-    "stargazers_count": 1358,
+    "stargazers_count": 1360,
     "open_issues_count": 7,
     "forks_count": 68
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 12220,
+    "stargazers_count": 12229,
     "open_issues_count": 20,
-    "forks_count": 3161
+    "forks_count": 3162
   },
   {
     "full_name": "GrayHatHacking/GHHv6",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 5584,
-    "open_issues_count": 169,
-    "forks_count": 481
+    "stargazers_count": 5590,
+    "open_issues_count": 170,
+    "forks_count": 482
   },
   {
     "full_name": "SimpleHomelab/Docker-Traefik",
-    "stargazers_count": 3445,
+    "stargazers_count": 3447,
     "open_issues_count": 0,
-    "forks_count": 643
+    "forks_count": 644
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 70539,
-    "open_issues_count": 75,
-    "forks_count": 7162
+    "stargazers_count": 70682,
+    "open_issues_count": 78,
+    "forks_count": 7181
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 33687,
+    "stargazers_count": 33714,
     "open_issues_count": 27,
-    "forks_count": 979
+    "forks_count": 981
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 19266,
+    "stargazers_count": 19270,
     "open_issues_count": 215,
-    "forks_count": 1982
+    "forks_count": 1983
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "finos/common-domain-model",
-    "stargazers_count": 268,
-    "open_issues_count": 122,
+    "stargazers_count": 269,
+    "open_issues_count": 128,
     "forks_count": 124
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 119043,
-    "open_issues_count": 2105,
-    "forks_count": 9487
+    "stargazers_count": 119128,
+    "open_issues_count": 2134,
+    "forks_count": 9423
   }
 ]
