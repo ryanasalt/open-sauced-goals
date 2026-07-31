@@ -1,9 +1,9 @@
 [
   {
     "full_name": "standardnotes/app",
-    "stargazers_count": 6568,
-    "open_issues_count": 96,
-    "forks_count": 539
+    "stargazers_count": 6575,
+    "open_issues_count": 95,
+    "forks_count": 540
   },
   {
     "full_name": "sjgant80-hub/exitengine",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 76462,
-    "open_issues_count": 262,
-    "forks_count": 6393
+    "stargazers_count": 76877,
+    "open_issues_count": 259,
+    "forks_count": 6436
   },
   {
     "full_name": "kcwoodfield/LifeOS-OSS",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "microsoft/aitour26-WRK542-prototype-agents-with-Foundry-toolkit-and-model-context-protocol",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 8,
     "forks_count": 46
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 30450,
-    "open_issues_count": 150,
-    "forks_count": 2179
+    "stargazers_count": 30542,
+    "open_issues_count": 151,
+    "forks_count": 2180
   },
   {
     "full_name": "OpenBB-finance/awesome-openbb",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 4,
     "forks_count": 19
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "jpmorganchase/python-training",
-    "stargazers_count": 13699,
+    "stargazers_count": 13711,
     "open_issues_count": 0,
     "forks_count": 2209
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 54360,
+    "stargazers_count": 54358,
     "open_issues_count": 0,
-    "forks_count": 5648
+    "forks_count": 5655
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40598,
+    "stargazers_count": 40609,
     "open_issues_count": 5,
-    "forks_count": 3942
+    "forks_count": 3941
   },
   {
     "full_name": "danbuchal/portfolio-tracker",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 532231,
-    "open_issues_count": 619,
-    "forks_count": 50341
+    "stargazers_count": 533130,
+    "open_issues_count": 620,
+    "forks_count": 50413
   },
   {
     "full_name": "lyz-code/blue-book",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 12276,
-    "open_issues_count": 31,
-    "forks_count": 3176
+    "stargazers_count": 12300,
+    "open_issues_count": 33,
+    "forks_count": 3181
   },
   {
     "full_name": "GrayHatHacking/GHHv6",
@@ -115,39 +115,39 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 5615,
+    "stargazers_count": 5625,
     "open_issues_count": 174,
-    "forks_count": 486
+    "forks_count": 487
   },
   {
     "full_name": "SimpleHomelab/Docker-Traefik",
-    "stargazers_count": 3450,
+    "stargazers_count": 3452,
     "open_issues_count": 0,
     "forks_count": 643
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 71101,
-    "open_issues_count": 87,
-    "forks_count": 7245
+    "stargazers_count": 71203,
+    "open_issues_count": 88,
+    "forks_count": 7264
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
-    "stargazers_count": 296,
+    "stargazers_count": 298,
     "open_issues_count": 3,
     "forks_count": 102
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 33844,
-    "open_issues_count": 29,
-    "forks_count": 988
+    "stargazers_count": 33862,
+    "open_issues_count": 30,
+    "forks_count": 987
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 19339,
+    "stargazers_count": 19338,
     "open_issues_count": 218,
-    "forks_count": 1988
+    "forks_count": 1987
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
@@ -162,7 +162,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "mirayatech/TypePrint",
+    "full_name": "mirayavandiepen/TypePrint",
     "stargazers_count": 28,
     "open_issues_count": 0,
     "forks_count": 1
@@ -170,13 +170,13 @@
   {
     "full_name": "finos/common-domain-model",
     "stargazers_count": 272,
-    "open_issues_count": 137,
+    "open_issues_count": 142,
     "forks_count": 126
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 119971,
-    "open_issues_count": 2188,
-    "forks_count": 9575
+    "stargazers_count": 120179,
+    "open_issues_count": 2197,
+    "forks_count": 9636
   }
 ]
