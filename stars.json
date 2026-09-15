@@ -7,9 +7,9 @@
   },
   {
     "full_name": "standardnotes/app",
-    "stargazers_count": 6627,
+    "stargazers_count": 6629,
     "open_issues_count": 99,
-    "forks_count": 551
+    "forks_count": 550
   },
   {
     "full_name": "sjgant80-hub/exitengine",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "Egonex-AI/Understand-Anything",
-    "stargazers_count": 82018,
-    "open_issues_count": 301,
-    "forks_count": 6899
+    "stargazers_count": 82848,
+    "open_issues_count": 303,
+    "forks_count": 6975
   },
   {
     "full_name": "kcwoodfield/LifeOS-OSS",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 32412,
-    "open_issues_count": 166,
-    "forks_count": 2324
+    "stargazers_count": 32535,
+    "open_issues_count": 169,
+    "forks_count": 2336
   },
   {
     "full_name": "OpenBB-finance/awesome-openbb",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 8,
-    "forks_count": 26
+    "forks_count": 28
   },
   {
     "full_name": "tailscale-dev/laundromates",
@@ -61,37 +61,37 @@
   },
   {
     "full_name": "jpmorganchase/python-training",
-    "stargazers_count": 14078,
+    "stargazers_count": 14084,
     "open_issues_count": 0,
-    "forks_count": 2262
+    "forks_count": 2261
   },
   {
     "full_name": "maybe-finance/maybe",
-    "stargazers_count": 54286,
+    "stargazers_count": 54281,
     "open_issues_count": 0,
     "forks_count": 5680
   },
   {
     "full_name": "remoteintech/remote-jobs",
-    "stargazers_count": 40805,
-    "open_issues_count": 4,
-    "forks_count": 3956
+    "stargazers_count": 40820,
+    "open_issues_count": 10,
+    "forks_count": 3958
   },
   {
     "full_name": "danbuchal/portfolio-tracker",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 15,
     "forks_count": 6
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 546471,
-    "open_issues_count": 639,
-    "forks_count": 51428
+    "stargazers_count": 547309,
+    "open_issues_count": 642,
+    "forks_count": 51484
   },
   {
     "full_name": "lyz-code/blue-book",
-    "stargazers_count": 971,
+    "stargazers_count": 972,
     "open_issues_count": 0,
     "forks_count": 112
   },
@@ -103,27 +103,27 @@
   },
   {
     "full_name": "Brandon7CC/mac-monitor",
-    "stargazers_count": 1380,
+    "stargazers_count": 1381,
     "open_issues_count": 7,
     "forks_count": 65
   },
   {
     "full_name": "redcanaryco/atomic-red-team",
-    "stargazers_count": 12519,
-    "open_issues_count": 33,
-    "forks_count": 3209
+    "stargazers_count": 12537,
+    "open_issues_count": 32,
+    "forks_count": 3212
   },
   {
     "full_name": "GrayHatHacking/GHHv6",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 4,
     "forks_count": 64
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 5709,
+    "stargazers_count": 5715,
     "open_issues_count": 189,
-    "forks_count": 494
+    "forks_count": 496
   },
   {
     "full_name": "SimpleHomelab/Docker-Traefik",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "OpenBB-finance/OpenBB",
-    "stargazers_count": 72879,
-    "open_issues_count": 117,
-    "forks_count": 7534
+    "stargazers_count": 73017,
+    "open_issues_count": 115,
+    "forks_count": 7553
   },
   {
     "full_name": "AI-Maker-Space/LLM-Ops-Cohort-1",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "MonitorControl/MonitorControl",
-    "stargazers_count": 34144,
+    "stargazers_count": 34179,
     "open_issues_count": 23,
     "forks_count": 1004
   },
   {
     "full_name": "Avaiga/taipy",
-    "stargazers_count": 19433,
+    "stargazers_count": 19435,
     "open_issues_count": 225,
-    "forks_count": 1995
+    "forks_count": 1993
   },
   {
     "full_name": "Azure/Build-Modern-AI-Apps",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "finos/common-domain-model",
-    "stargazers_count": 277,
-    "open_issues_count": 138,
+    "stargazers_count": 278,
+    "open_issues_count": 143,
     "forks_count": 134
   }
 ]
